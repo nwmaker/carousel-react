@@ -1,4 +1,4 @@
-# Carousel with button and indicators
+# Carousel with buttons and page indicator
 
 ## use [CRA](https://github.com/facebook/create-react-app) to create the app
 ```
