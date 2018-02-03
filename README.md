@@ -9,5 +9,6 @@ yarn start
 ## auto slide show
 study this [pen](https://codepen.io/nashio/pen/xLKepZ).
 
-
+## auto carousel
+study this [pen](https://codepen.io/maikkoko/pen/Zyxvvv)
 

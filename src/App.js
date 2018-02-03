@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Carousel from './Carousel';
 import AutoSlide from './AutoSlide';
+import AutoCarousel from './AutoCarousel';
 
 const pics = [
   'https://cdn.pixabay.com/photo/2017/06/19/07/12/water-lily-2418339__480.jpg',
@@ -23,6 +24,7 @@ class App extends Component {
           'http://lorempixel.com/600/400/fashion',
         ]} />
         <AutoSlide pics={pics} /> 
+        <AutoCarousel />
       </div>
     );
   }
