@@ -6,5 +6,8 @@ npx create-react-app carousel
 cd carousel
 yarn start
 ```
+## auto slide show
+study this [pen](https://codepen.io/nashio/pen/xLKepZ).
+
 
 
